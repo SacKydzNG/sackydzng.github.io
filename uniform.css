@@ -7,8 +7,6 @@
 /* Style the links inside the navigation bar */
 .topnav a {
   border-color: white;
-  border-width: 4px;
-  border-style: solid;
   float: left;
   text-align: center;
   padding: 14px 16px;
