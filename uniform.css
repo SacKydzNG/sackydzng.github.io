@@ -9,6 +9,10 @@
   border-color: white;
   border-width: 4px;
   border-style: solid;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 /* Change the color of links on hover */
