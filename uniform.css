@@ -2,7 +2,8 @@ body {
   font-family: 'Courier New', monospace;
   background-color: #000000;
   color: #ffffff;
-  font-size: 4.5px;
+  font-size: 36px;
+  font-weight: bold;
 }
 
 /* Add a black background color to the top navigation */
@@ -15,9 +16,11 @@ body {
 .topnav a {
   border-color: white;
   border-style: solid;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
   float: left;
   text-align: center;
-  padding: 3.5px 4px;
+  padding: 7px 8px;
 }
 
 /* Change the color of links on hover */
@@ -32,9 +35,10 @@ body {
   color: #000000;
 }
 
-h1 {
+p {
   border-color: white;
   border-width: 3px;
   border-style: solid;
-  padding: 3.5px 4px;
+  padding: 7px 8px;
+  float: left;
 }
