@@ -2,14 +2,14 @@ body {
   font-family: 'Courier New', monospace;
   background-color: #000000;
   color: #ffffff;
-  font-size: 36px;
-  font-weight: bold;
 }
 
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #000000;
   overflow: hidden;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 /* Style the links inside the navigation bar */
@@ -39,6 +39,15 @@ p {
   border-color: white;
   border-width: 3px;
   border-style: solid;
+  font-size: 20px;
   padding: 7px 8px;
-  float: left;
+}
+
+shill {
+  border-color: white;
+  border-width: 3px;
+  border-style: solid;
+  font-size: 20px;
+  padding: 7px 8px;
+  float: left
 }
