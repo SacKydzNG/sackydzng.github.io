@@ -1,3 +1,10 @@
+body {
+  font-family: 'Courier New', monospace;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 4.5px;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #000000;
@@ -10,8 +17,7 @@
   border-style: solid;
   float: left;
   text-align: center;
-  padding: 7px 8px;
-  text-decoration: none;
+  padding: 3.5px 4px;
 }
 
 /* Change the color of links on hover */
